@@ -58,7 +58,7 @@
 
     let i2 = 10;
 
-    while (i2 >= 0) {
+    while (i2 >= 1) {
         console.log(i2);
         i2--;
     }
@@ -79,7 +79,7 @@
 
     let i3 = 10;
 
-    while (i3 >= 0) {
+    while (i3 >= 1) {
         console.log(i3);
         i3--;
     }
@@ -100,7 +100,7 @@
 
     let i4 = 10;
 
-    while (i4 >= 0) {
+    while (i4 >= 1) {
         console.log(i4);
         i4--;
     }
