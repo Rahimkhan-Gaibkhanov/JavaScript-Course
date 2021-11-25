@@ -21,4 +21,4 @@
     for (let j = 1; j <= 30; j++) {
         result += j;
     } 
-    console.log(result);
+    console.log(result)
